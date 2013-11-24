@@ -1,0 +1,14 @@
+{
+  "version" : "0.2",
+  "name": "noonu",
+  "description": "An bouncing ball app for noonu",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/icon-60.png",
+    "128": "/icon-128.png"
+  },
+  "developer": {
+    "name": "kallan"
+    }
+
+  }
